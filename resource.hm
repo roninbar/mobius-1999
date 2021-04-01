@@ -1,0 +1,39 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by Moebius32.rc
+//
+#define HIDC_ABOUT                      0x807b03ec    // IDD_BEHAVIOR
+#define HIDC_ANTIALIAS                  0x806f0415    // IDD_GRAPHIC_CONFIG
+#define HIDC_BACK                       0x807b03fa    // IDD_BEHAVIOR
+#define HIDC_BLEND                      0x806f03eb    // IDD_GRAPHIC_CONFIG
+#define HIDC_COLOR1                     0x807b040f    // IDD_BEHAVIOR
+#define HIDC_COLOR2                     0x807b0410    // IDD_BEHAVIOR
+#define HIDC_COLOR3                     0x807b0411    // IDD_BEHAVIOR
+#define HIDC_COLOR4                     0x807b0412    // IDD_BEHAVIOR
+#define HIDC_CULL                       0x806f03f3    // IDD_GRAPHIC_CONFIG
+#define HIDC_DL                         0x80710409    // IDD_GENERAL
+#define HIDC_DR                         0x80710408    // IDD_GENERAL
+#define HIDC_EDIT1                      0x807b03f0    // IDD_BEHAVIOR
+#define HIDC_FLAT                       0x806f03e9    // IDD_GRAPHIC_CONFIG
+#define HIDC_GOURAUD                    0x806f03ea    // IDD_GRAPHIC_CONFIG
+#define HIDC_LINEAR                     0x806f040b    // IDD_GRAPHIC_CONFIG
+#define HIDC_LMIPMAPS                   0x806f040e    // IDD_GRAPHIC_CONFIG
+#define HIDC_MONITOR                    0x807b0405    // IDD_BEHAVIOR
+#define HIDC_NEAREST                    0x806f040a    // IDD_GRAPHIC_CONFIG
+#define HIDC_NMIPMAPS                   0x806f040d    // IDD_GRAPHIC_CONFIG
+#define HIDC_NOGLASS                    0x806f0413    // IDD_GRAPHIC_CONFIG
+#define HIDC_NORMALS                    0x806f03ee    // IDD_GRAPHIC_CONFIG
+#define HIDC_NOTEXTURES                 0x806f0414    // IDD_GRAPHIC_CONFIG
+#define HIDC_QUICK                      0x807b03ed    // IDD_BEHAVIOR
+#define HIDC_SPIN1                      0x807b03f1    // IDD_BEHAVIOR
+#define HIDC_SWING                      0x807b03f8    // IDD_BEHAVIOR
+#define HIDC_UL                         0x80710406    // IDD_GENERAL
+#define HIDC_UR                         0x80710407    // IDD_GENERAL
+#define HIDC_USEMOUSE                   0x807b03fc    // IDD_BEHAVIOR
+#define HIDC_WIREFRAME                  0x806f03ef    // IDD_GRAPHIC_CONFIG
+#define HIDC_WMIPMAPS                   0x806f040c    // IDD_GRAPHIC_CONFIG
+#define HIDC_ZBUFFER                    0x806f03f2    // IDD_GRAPHIC_CONFIG
+#define HID_MUTE                        0x80710404    // IDD_GENERAL
+#define HID_THRESHOLD                   0x807103fb    // IDD_GENERAL
+#define HID_WAITBOX                     0x80710400    // IDD_GENERAL
+#define HID_WAITBUDDY                   0x807103ff    // IDD_GENERAL
+#define HID_WAITTEXT                    0x807103fe    // IDD_GENERAL
